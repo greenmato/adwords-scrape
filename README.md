@@ -7,4 +7,4 @@ Data scraping application used for Google adwords analysis:
 Built using Python Scrapy https://scrapy.org/
 
 Steps to install:
-* `pip install requirements.txt`
+* `pip install -r requirements.txt`
