@@ -1,2 +1,2 @@
-scrapy==1.7.3
+scrapy==1.8.2
 mysql-connector-python
